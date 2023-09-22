@@ -11,7 +11,7 @@
 "[english]filter_namechange"	"Name Changes"
 "filter_publicchat"	"Гомуми чат"
 "[english]filter_publicchat"	"Public Chat"
-"filter_servermsg"	"Сообщения сервера"
+"filter_servermsg"	"Сервер хәбәрләре"
 "[english]filter_servermsg"	"Server Messages"
 "filter_teamchange"	"Төркемне алмашу"
 "[english]filter_teamchange"	"Team Changes"
