@@ -1,6 +1,6 @@
 "lang"
 {
-"Language" "russian"
+"Language" "tatar"
 "Tokens"
 {
 "TF_LessThan"				"<"
