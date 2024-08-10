@@ -1,6 +1,6 @@
 "lang" 
 { 
-"Language" "Татарча" 
+"Language" "tatar" 
 "Tokens" 
 { 
 "TrackerUI_ConnectionSpeed"				"Internet connection speed"
