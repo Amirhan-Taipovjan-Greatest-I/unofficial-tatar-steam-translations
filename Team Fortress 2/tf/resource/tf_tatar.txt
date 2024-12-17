@@ -367,7 +367,7 @@
 "TF_ClassMenu_Cancel"		"БАШ ТАРТУ"
 "TF_ClassMenu_Cancel_NoKey" "БАШ ТАРТУ"
 
-"TF_WatchIntro_360"			"Обучающее видео"
+"TF_WatchIntro_360"			"Өйрәтүче видео"
 "Button_SkipIntro_360"			"Видеоны калдыру"
 "TF_Continue_360"			"Дәвам итү"
 
@@ -462,7 +462,7 @@
 "TF_playerid_diffteam"			"%s1Дошман: %s2"
 "TF_playerid_noteam"			"%s1"
 "TF_playerid_object"			"%s1 — %s2 тарафыннан төзелгән"
-"TF_playerid_object_mini"		"Кече-%s1 — %s2 тарафыннан төзелгән"
+"TF_playerid_object_mini"		"Кыска %s1 — %s2 тарафыннан төзелгән"
 "TF_playerid_object_mode"		"%s3 (%s1) — %s2 тарафыннан төзелгән"
 "TF_playerid_object_level"			"( %s1 дәрәҗә )"
 "TF_playerid_object_upgrading"			"Яңарту: %s1"
@@ -3373,7 +3373,7 @@
 "TF_Wearable_Butler"				"Дворецкий"
 "TF_Wearable_Wound"					"Рана"
 
-"TF_RobotPart_Type"	"Робот запчасте"
+"TF_RobotPart_Type"	"робот запчасте"
 "TF_CircuitBoard_Type"	"басма платасы"
 
 "TF_TauntEnabler_Laugh"		"Насмешка: Злорадство"
@@ -3482,7 +3482,7 @@
 "TF_Atomizer"			"Таркатучы" // ADD THE
 "TF_BonkBoy"			"Бонк-егет"
 "TF_BonkBoy_Style_WithNoHat"	"По-традиционному аэродинамический"
-"TF_BonkBoy_Style_WithHat"		"Дуклында"
+"TF_BonkBoy_Style_WithHat"		"Дулкында"
 
 "TF_CosaNostraCap"		"Шляпа мафиози"
 "TF_CosaNostraCap_Desc"		"Если бы красота могла убивать, то этот элегантный товарищ сделал бы вашу голову соучастником в преступлении."
@@ -3538,7 +3538,7 @@
 "TF_DemoSombrero" "Оллбреро" // ADD THE
 "TF_DemomanMargaritaShades" "Двойная порция"
 "TF_DemomanBeerGrenades" "Пивной пресс"
-"TF_Bowtie"			"Д-р Ктой"
+"TF_Bowtie"			"Ктой д-р"
 "TF_ClaimCode"		"Купон"
 
 "TF_Party_Favor"		"Праздничное предложение"
@@ -9906,9 +9906,9 @@
 "TF_FryingPanStrangifier"		"Гаҗәп дуңгыз мае"
 "TF_FryingPanStrangifier_Desc"	"Используйте его на Сковороде, и она сможет отслеживать количество убитых ею врагов. Сковорода станет странного типа."
 
-"TF_Strangifier_Name"			"Гаҗәпясаучы"
+"TF_Strangifier_Name"			"Гаҗәпләткәч"
 "TF_Strangifier_Desc"			"Билгеле предметларның гаҗәп сыйфатларын өстәү өчен кулланыла."
-"TF_StrangifierTool"			"гаҗәпясаучы"
+"TF_StrangifierTool"			"гаҗәпләткәч"
 
 "TF_Unusualifier"				"Күнегелмәүче"
 "TF_Unusualifier_Desc"			"Используется для добавления необычных эффектов определенным предметам."
@@ -10250,7 +10250,7 @@
 "CraftBegin"			"Ясау"
 "CraftConfirm"			"Ясау!"
 "CraftRecipe"			"Известные чертежи"
-"CraftStep1"			"Выберите нужный чертёж"
+"CraftStep1"			"Кирәкле сызымны сайлагыз"
 "CraftStep2"			"Изучите ингредиенты и результаты чертежа"
 "CraftStep3"			"Нажмите \"Ковать\", чтобы использовать этот чертёж."
 "CraftStep3B"			"Выберите необходимый чертёж."
@@ -10294,7 +10294,7 @@
 "RDI_AB"				"Таләп ителә: %s2 (%s1 данә)"
 "RDI_AB1"				"Таләп ителә: %s1, %s2"
 "RDI_ABC"				"Таләп ителә: %s2 (%s1 данә) %s3"
-"RDI_ABC1"				"Таләп ителә: %s2 (%s1 данә), %s3"
+"RDI_ABC1"				"Таләп ителә: %s1, %s2, %s3"
 "RDI_ABC2"				"Таләп ителә: %s1, %s2, %s3"
 "RDO_AB"				"Алына: %s2 (%s1 данә)"
 "RDO_AB1"				"Алына: %s1, %s2"
@@ -10305,9 +10305,9 @@
 "RI_Pp"					"Төп корал"
 "RI_P"					"Төп корал"
 "RI_Ic"					"Предметы, используемые одним классом"
-"RI_Wc"					"Оружие, используемое одним классом"
+"RI_Wc"					"Бер сыйныф тарафыннан кулланылучы корал"
 "RI_Is"					"Предметы, находящиеся в одном слоте"
-"RI_Ws"					"Оружие, находящееся в одном слоте"
+"RI_Ws"					"Бер слотында булучы корал"
 "RI_Si"					"Одно и то же дополнительное оружие"
 "RI_Sp"					"дополнительное оружие"
 "RI_S"					"Дополнительное оружие"
@@ -10325,20 +10325,20 @@
 "RI_FAC"				"класса"
 "RI_Hg"					"Головной убор"
 "RI_Cs"					"этого класса"
-"RI_CTc"				", Жетон класса (1 шт.)"
-"RI_STc"				", Жетон слота (1 шт.)"
-"RI_W"					"Оружие"
+"RI_CTc"				"Сыйныф жетоны (1 данә)"
+"RI_STc"				"Слот жетоны (1 данә)"
+"RI_W"					"Корал"
 "RI_Mcp"				"Предмет категории \"Разное\""
 "RI_Mci"				"Один и тот же предмет категории \"Разное\""
 "RI_Ii"					"предмет"
 "RI_I"					"Предмет"
 "RI_Nd"					"имени"
 "RI_c"					", "
-"RI_CTp"				"Жетоны класса"
-"RI_STp"				"Жетоны слота"
-"RI_Tp"					"Жетоны"
+"RI_CTp"				"Сыйныф жетоннары"
+"RI_STp"				"Слот жетоннары"
+"RI_Tp"					"Жетоннар"
 "RI_T"					"Жетон"
-"RI_SIc"				", Оружие из набора (1 шт.)"
+"RI_SIc"				"Җыелмадан корал (1 данә)"
 "RO_SH"					"Головной убор из указанного набора"
 "RI_HHg"				"Проклятая шляпа"
 "RI_BurnedItem"			"сгоревшие предметы"
@@ -12684,27 +12684,26 @@
 
 // Unique item names
 "TF_Unique_Prepend_Proper"			""			// the space at the end is important
-"TF_Unique_Prepend_Proper_Quality"	"
-"			// no space; English-only
+"TF_Unique_Prepend_Proper_Quality"	""			// no space; English-only
 "TF_NonUnique_Prepend_Proper"		"A"				// DEPRECATED
 "TF_NonUnique_Append_Proper"	"%s1"				// DEPRECATED
 "TF_Unique_Achievement_Medigun1"	"Крицкриг"	// ADD THE
 "TF_Unique_Achievement_Syringegun1"	"Канечкеч"	// ADD THE
-"TF_Unique_Achievement_Bonesaw1"	"Убер-пычкы"	// ADD THE
+"TF_Unique_Achievement_Bonesaw1"	"Үбер-пычкы"	// ADD THE
 "TF_Unique_Achievement_FireAxe1"	"Утбалта"	// ADD THE
 "TF_Unique_Achievement_FlareGun"	"Ракетчы"	// ADD THE
-"TF_Unique_Achievement_Flaregun_desc"	"Если убрать это оружие, оно перезарядится."
+"TF_Unique_Achievement_Flaregun_desc"	"Әгәр бу коралны кайтарса, ул яңадан корылачак."
 "TF_Unique_Achievement_Flamethrower"	"Төртебетерүче"	// ADD THE
 "TF_Unique_Achievement_LunchBox"	"Бутерброд"	// ADD THE
 "TF_Sandvich_desc"					"При поедании: восстанавливает до 300 очков здоровья.\nДоп. атака: поделиться с товарищем\n(действует как средняя аптечка)."
 "TF_Unique_Achievement_Minigun"		"Наташа"
 "TF_Unique_Achievement_Fists"		"Кулаки грозного боксёра"	// ADD THE
 "TF_Unique_Achievement_Bat"		"Дрёма"	// ADD THE
-"TF_Unique_Achievement_Scattergun_Double" "Неумолимая сила"	// ADD THE
+"TF_Unique_Achievement_Scattergun_Double" "Басылмас көч"	// ADD THE
 "TF_Unique_Achievement_Scattergun_Double_desc"	"Обойма этого оружия перезаряжается целиком."
 "TF_Unique_Achievement_EnergyDrink"	"Бонк! Атом залпы"
 "TF_Unique_Achievement_EnergyDrink_desc"	"Напиток даёт неуязвимость на 8 секунд, но лишает возможности атаковать.\nПосле окончания действия вы замедлитесь в зависимости от полученного урона."
-"TF_Unique_Achievement_SniperRifle"	"Прогулка"	// ADD THE
+"TF_Unique_Achievement_SniperRifle"	"Ирекле йөрү"	// ADD THE
 "TF_Unique_Achievement_CloakWatch"	"Япма һәм хәнҗәр"	// ADD THE
 "TF_Unique_Achievement_FeignWatch"	"Әҗәлнең чаң"	// ADD THE
 "TF_Unique_Achievement_Revolver"	"Амбассадор"	// ADD THE
@@ -12722,8 +12721,8 @@
 "TF_Unique_Sentry_Shotgun"		"Үзхөкем"	// ADD THE
 "TF_Unique_Achievement_Laser_Pointer"	"Йөртүче"	// ADD THE
 "TF_Unique_Robot_Arm"			"Коралчы"	// ADD THE
-"TF_Unique_SledgeHammer"			"Крушитель"	// ADD THE
-"TF_Unique_Makeshiftclub"			"Костыль"	// ADD THE
+"TF_Unique_SledgeHammer"			"Кыручы"	// ADD THE
+"TF_Unique_Makeshiftclub"			"Култыкса"	// ADD THE
 "TF_Unique_Lunchbox_Chocolate"		"\"Далокош\" плитәчәге"	// ADD THE
 "TF_Lunchbox_Chocolate_desc"		"При поедании: дает до 100 очков здоровья.\nДоп. атака: поделиться шоколадкой с товарищем\n(действует как маленькая аптечка)."
 "TF_Unique_Lunchbox_Banana"			"Утешительный банан"	// ADD THE
@@ -12739,10 +12738,10 @@
 "TF_Unique_Combat_Wrench"			"Көньяк кунакчыллыгы"	// ADD THE
 "TF_Unique_MediGun_QuickFix"		"Тизтөзәтү"	// ADD THE
 "TF_Unique_MediGun_Resist"			"Вакцинатор" // ADD THE
-"TF_ThePowerjack"			"Разъединитель"	// ADD THE
+"TF_ThePowerjack"			"Өзгеч"	// ADD THE
 "TF_TheDegreaser"			"Чистарткыч"	// ADD THE
 "TF_TheShortstop"			"Өзгәләгеч"	// ADD THE
-"TF_LEtranger"				"Таныш булмаган"
+"TF_LEtranger"				"Таныш булмаучы"
 "TF_EternalReward"			"Мәңгелек тынычлык"
 "TF_TheBattalionsBackup"		"Батальон ярдәме"	// ADD THE
 "TF_TheBlackBox"			"Кара тартма"	// ADD THE
@@ -12756,7 +12755,7 @@
 "TF_Unique_FryingPan"		"Таба"	// ADD THE
 "TF_Gold_FryingPan"			"Алтын таба"
 "TF_HalloweenBoss_Axe"			"Җәяүле башсыз җайдакның айбалтасы"	// ADD THE
-"TF_Iron_Curtain"			"Железный занавес"	// ADD THE
+"TF_Iron_Curtain"			"Тимер пәрдә"	// ADD THE
 "TF_TTG_Watch"				"Часы ярого поклонника"	// ADD THE
 "TF_Amputator"				"Ампутатор"	// ADD THE
 "TF_CrusadersCrossbow"			"Хәчтерүш арбалеты"	// ADD THE
@@ -12816,7 +12815,7 @@
 "TF_DragonbornHelmet_Desc"		"Был создан для того, чтобы вселять ужас. Драконы же, по образу и подобию которых он был создан, отнеслись к нему с безразличием."
 "TF_Wingstick"				"Винтокрыл"
 "TF_DEX_Helmet"				"Нанобалаклава" // ADD THE
-"TF_DEX_Glasses"			"Деус-очки"
+"TF_DEX_Glasses"			"Деус-күзлек"
 "TF_DEX_Hat"				"Преданный сотрудник" // ADD THE
 "TF_DEX_Arm"				"Кулак непорочности" // ADD THE
 "TF_DEX_Revolver"			"Алмаз елан" // ADD THE
@@ -12827,7 +12826,7 @@
 "TF_SpaceChem_MoustachiumBar"		"Мыеки коелма"
 "TF_SpaceChem_MoustachiumBar_Desc"	"Чистый усатий, добытый в натуральных источниках глубоко под Австралией."
 "TF_SpaceChem_FishcakeFragmentType"	"Кусок рыбного батончика"
-"TF_SpaceChem_FishcakeFragment"	"\"Рыба\""
+"TF_SpaceChem_FishcakeFragment"	"\"Балык\""
 "TF_SpaceChem_FishcakeFragment_Desc"	"Богата белками."
 "TF_SpaceChem_PinFragmentType"	"Фрагмент значка"
 "TF_SpaceChem_PinFragment"		"Космический металлолом"
@@ -12842,9 +12841,9 @@
 "TF_JanissaryHat"				"Янычарская клятва"
 "TF_JanissaryHat_Desc"			"Первая армия, носившая военную форму, хотела, чтобы об их достижении знал каждый."
 
-"TF_BucketHat"			"Защитное ведро"
+"TF_BucketHat"			"Саклау чиләге"
 "TF_BucketHat_Desc"		"Проверено зомби, одобрено мозга-а-а-ами."
-"TF_TrafficCone"			"Конус мертвеца"
+"TF_TrafficCone"			"Мәет конусы"
 "TF_TrafficCone_Desc"		"Они упадут замертво, увидев на вас этот стильный дорожный конус."
 
 "TF_ScoutSword"			"Трехрунный меч"
@@ -12960,7 +12959,7 @@
 "rarity4"						"Гадисез төрдәге"
 "strange"						"Гаҗәп төрдәге"
 "completed"						"Тәмамланган төрдәге"
-"haunted"						"Өрәкле төрдәге"
+"haunted"						"Өрәкле"
 "collectors"					"Коллекциядән"
 "paintkitweapon"				"бизәкләнгән корал"
 
@@ -12979,9 +12978,9 @@
 "ItemNameKillStreakv0"						"Серияле үтерүченең "
 "ItemNameKillStreakv1"						"Махсус куркыныч үтерүченең "
 "ItemNameKillStreakv2"						"Профессиональ үтерүченең "
-"ItemDescStrangify"							"Этот Страннодел может быть применен к предмету \"%s1\". Если %s1 имеет нормальное качество, то он будет улучшен до странного."
-"ItemDescKillStreakify"						"Этот набор серии убийств можно применить на %s1."
-"ItemDescUnusualify"						"Этот необычнотизатор можно применить на %s1."
+"ItemDescStrangify"							"Бу гаҗәпләткәч \"%s1\" предметына куллана ала. Әгәр %s1 гади сыйфатлы булса, ул гаҗәп сыйфатка яңартылачак."
+"ItemDescKillStreakify"						"Бу үтерү сериясенең җыелмасы \"%s1\" предметына куллана ала."
+"ItemDescUnusualify"						"Этот необычнотизатор можно применить на \"%s1\"."
 
 "TF_CheatDetected_Title"			"КИСӘТҮ"
 "TF_CheatDetectedMinor"				"Ваш аккаунт заподозрили в попытке обойти систему распространения предметов. Мы удалили ваши предметы, полученные нечестным путём.\n\nЕсли это повторится, мы удалим все ваши предметы."
@@ -13455,14 +13454,14 @@
 "Store_Cosmetics"		"Аксессуарлар"
 "Store_Taunts"			"Мыскыллар"
 "Store_Popular"			"Лидеры продаж"
-"Store_Featured"		"Популярное"
+"Store_Featured"		"Популярлар"
 "Store_New"				"Яңалар"
 "Store_Class_Bundles"	"Яңалар өчен"
 "Store_OnSale"			"Распродажа"
 "Store_Crafting"		"Чүкү"
 "Store_Special_Items"		"Кораллар"
 "Store_New_Items"		"Яналар!"
-"Store_Sale_Items"		"* Скидки *"
+"Store_Sale_Items"		"* Ташламалар *"
 "Store_Home"			"Төп бит"
 "Store_Items"			"Предметлар"
 "Store_Bundles"			"Җыелмалар"
@@ -13479,21 +13478,20 @@
 "Store_Taunt_Label"		"Мыскыллар"
 
 "Store_Price_New"		"ЯҢА"
-"Store_Price_Sale"		"СКИДКА!"
+"Store_Price_Sale"		"ТАШЛАМА!"
 "Store_Price_Highlighted"	"МӨҺИМ!"
 
 "Store_CANCEL"			"Баш тарту"
 
 "Store_NowAvailable"	"ИРЕШЕРЛЕК"
 
-"Store_CGTradingSale"	"
-"
+"Store_CGTradingSale"	""
 
 "Store_Welcome"			"Рәхим итегез!"
 "Store_BaseDesc"		"Выберите предмет, чтобы просмотреть его описание и список классов, которые могут его использовать. Нажмите на значок класса, чтобы увидеть образец!"
 
 "Store_ClassFilter_None"		"Барлык предметлар"
-"Store_ClassFilter_AllClasses"	"Предметы всех классов (%s1)"
+"Store_ClassFilter_AllClasses"	"Барлык сыйныфлар предметлары (%s1)"
 "Store_Items_Scout" 			"Снаряжение разведчика (%s1)"
 "Store_Items_Sniper" 			"Снаряжение снайпера (%s1)"
 "Store_Items_Soldier" 			"Снаряжение солдата (%s1)"
@@ -13507,8 +13505,8 @@
 "Store_FilterLabel"				"Показать:"
 "Store_ClassFilterLabel"		"Сыйныфлар:"
 "Store_NameFilterLabel"			"Эзләү:"
-"Store_ItemTypeFilterLabel"		"Тип предмета:"
-"Store_SortByLabel"				"Сортировка:"
+"Store_ItemTypeFilterLabel"		"Предмет төре:"
+"Store_SortByLabel"				"Сортлау:"
 "Store_ClassImageMouseover"		"Этим предметом может пользоваться %s1."
 "Store_ClassImageMouseoverAll"	"Этим предметом могут пользоваться все классы."
 "Store_ClassImageMouseoverBundle"		"В этот набор входят предметы, которыми может пользоваться %s1."
@@ -13521,15 +13519,15 @@
 
 "Store_Cart"			"(%s1)"
 "Store_Checkout"		"Заказ"
-"Store_AddToCart"		"В корзину"
-"Store_ViewMarket"		"Торг. площадка"
-"Store_StartingAt"		"От"
+"Store_AddToCart"		"Кәрзингә"
+"Store_ViewMarket"		"Сәүд. мәйданчыгы"
+"Store_StartingAt"		"Башлангыч:"
 "Store_Market"			"Лоты от"
-"Store_Nope"			"Не-а"
+"Store_Nope"			"Юк"
 
 "StoreViewCartTitle"	"Ваша корзина"
 "Store_ContinueShopping" "Продолжить покупки"
-"Store_CartItems"		"%s1 предм."
+"Store_CartItems"		"%s1 предмет"
 "Store_EstimatedTotal"	"Итого"
 "Store_WAStateSalesTax"	"применимые налоги считаются при покупке"
 "Store_TotalSubtextB"	"все предметы появятся у вас в рюкзаке после совершения покупки"
@@ -13558,7 +13556,7 @@
 "StoreCheckout_Loading"		"Покупка..."
 "StoreCheckout_TransactionFinalizing"	"Завершение покупки..."
 "StoreCheckout_Unavailable"	"В данный момент покупка невозможна."
-"StoreCheckout_Canceling"	"Отмена..."
+"StoreCheckout_Canceling"	"Баш тарту..."
 
 "StoreCheckout_Fail"			"В данный момент магазин Манн Ко закрыт."
 "StoreCheckout_InvalidParam"		"Программная ошибка! Координатору игры передан неверный параметр. Попробуйте совершить покупку ещё раз."
@@ -13594,14 +13592,14 @@
 "Store_Zoom"				"Ближе"
 "Store_Team"				"Төркем"
 "Store_Paint"				"Пробная покраска"
-"Store_NoPaint"				"Без краски"
+"Store_NoPaint"				"Буяусыз"
 "Store_NextStyle"			"Стиль"
 
 "Store_StartShopping"			"ПЕРЕЙТИ В МАГАЗИН"
 "Store_ViewMore"				"ТАГЫН"
 "Store_BrowseTheStore"			"КИБЕТ"
-"Store_MarketPlace"				"ТОРГОВАЯ ПЛОЩАДКА"
-"Store_IntroTitle"			"МАГАЗИН ОТКРЫЛСЯ!"
+"Store_MarketPlace"				"СӘҮДӘ МӘЙДАНЧЫГЫ"
+"Store_IntroTitle"			"КИБЕТ АЧЫЛДЫ!"
 "Store_IntroText"			"Здравствуйте, мальчишки и девчонки! Я — Сакстон Хейл, генеральный директор Манн Ко. Мы производим лучшее оружие, боеприпасы и модные военные аксессуары в этой местности!\n\nИграешь за Синих? Красных? Не важно, все деньги зеленые, так что ПОКУПАЙ товары, которые заставят твоих врагов СТРАДАТЬ! А также дополнительные предметы для создания НЕПОВТОРИМОГО СТИЛЯ! Убивай кого хочешь. Я не буду тебя за это винить!\n"
 "Store_IntroTitle_Winter1"		"Счастливого австралийского Рождества!"
 "Store_IntroText_Winter1"		"Рождество? Ханука? Кванзаа? Собрание в доме Айны Рэнд? Не важно, что вы отмечаете, мы всё равно будем здесь, для вас, с утра до ночи и без выходных! Всё верно! Мы здесь, чтобы принять ваши деньги. На этих выходных в магазине Манн Ко мы установили невероятную скидку на предметы из набора Polycount. Спешите их купить прежде, чем наши бухгалтеры успеют понять, чем мы тут занимаемся!\n\nТоропитесь, ведь такие скидки не вечны!"
@@ -14003,8 +14001,8 @@
 // Training Dialog
 "TF_Training"		"КҮНЕГҮ"
 "TF_Training_Title"		"КҮНЕГҮ ШАРТЫН САЙЛАУ"
-"TF_Training_Desc_BasicTraining"	"Сыйныфның уңай һәм кимче якларын танып белегез."
-"TF_Training_Desc_OfflinePractice"	"Ботларга үзегезнең осталыкны шомартыгыз."
+"TF_Training_Desc_BasicTraining"	"Сыйныфның уңай һәм кимче якларын\nтанып белегез."
+"TF_Training_Desc_OfflinePractice"	"Ботларга үзегезнең осталыкны\nшомартыгыз."
 "TF_Training_StartTraining"	"БАШЛАУ"
 
 // Offline Practice
@@ -15206,15 +15204,15 @@
 "TF_MvM_BootCamp"				"Өйрәтү"
 "TF_MvM_SelectChallenge"		"Миссияне сайлау >>"
 "TF_MvM_MannVsMachineExplaination"	"Объединитесь, чтобы защитить Манн Ко\nот волн роботов!"
-"TF_MvM_BraggingRightsExplaination"	"Ганимәтләрне һәм аерма билгеләрен алып, Манн Ко. серверында уйнагыз!"
+"TF_MvM_BraggingRightsExplaination"	"Ганимәтләр һәм аерма билгеләре алып, Манн Ко. серверында уйнагыз!"
 "TF_MvM_PracticeExplaination"	"Берләшмә серверларында уйнагыз!"
 "TF_MvM_LearnMore"				"ММк буенча кулланма"
 "TF_MvM_TourOfDuty"				"Командировка"
 "TF_MvM_Difficulty"				"Катлаулылык"
-"TF_MvM_TourOfDutyProgress"		"Үтелгән"
+"TF_MvM_TourOfDutyProgress"		"Үтелгән\nсаны"
 "TF_MvM_TourNumber"			"Этап\nсаны"
 "TF_MvM_Missions"				"Миссияләр"
-"TF_MvM_Tour_0"					"Өйрәтү"
+"TF_MvM_Tour_0"					"Өйрәнү"
 "TF_MvM_Tour_Intermediate_1"	"\"Нефтьне агызу\" операциясе"
 "TF_MvM_Tour_Advanced_1"		"\"Корыч капкын\" операциясе"
 "TF_MvM_Tour_Expert_1"			"\"Тешле тәгәрмәчләрне шомарту\" операциясе"
@@ -15358,8 +15356,8 @@
 "TF_Item_Robits_Loot_07_Desc"	"Эту запчасть робота можно добавить в изготовитель серии убийств для создания набора серийного убийцы."
 "TF_Item_Robits_Loot_08_Desc"	"Эту запчасть робота можно добавить в изготовитель серии убийств для создания набора серийного убийцы."
 
-"TF_MvM_Killstreak_Recipe_1"	"Әзерләткәч"
-"TF_MvM_Killstreak_Recipe_2"	"Әзерләткәч"
+"TF_MvM_Killstreak_Recipe_1"	"Җыйгыч"
+"TF_MvM_Killstreak_Recipe_2"	"Җыйгыч"
 
 "TF_Item_GlitchedCircuitBoard"			"Забракованная печатная плата"
 "TF_Item_GlitchedCircuitBoard_Desc"		"Остатки от светильников врато-ботов. Они самоуничтожились после попадания в человеческие руки."
@@ -15477,7 +15475,7 @@
 "TF_Matchmaking_PlayerLeftPartyChat"	"%s1 төркемнән чыкты"
 "TF_Matchmaking_PlayerOnlinePartyChat"	"%s1 челтәрдә хәзер"
 "TF_Matchmaking_PlayerOfflinePartyChat"	"%s1 челтәрдә түгел хәзер"
-"TF_Matchmaking_SendFailedPartyChat" "Не удалось отправить сообщение в групповой чат"
+"TF_Matchmaking_SendFailedPartyChat" "Хәбәрне өер чатына җибәреп булмады"
 "TF_Matchmaking_AddedToQueue"			"Вы добавлены в очередь подбора игры.\n"
 "TF_Matchmaking_RemovedFromQueue"		"Вы удалены из очереди подбора игры.\n"
 "TF_Matchmaking_Show"					"Уен сайлауны ачу"
@@ -15505,7 +15503,7 @@
 "TF_Matchmaking_PartyMember_CompetitiveBanned"	"Блокировка в соревновательном режиме"
 "TF_Matchmaking_PartyMember_Leader"		"Өер җитәкчесе"
 "TF_Matchmaking_PartyMember_Offline"	"Челтәрдә түгел"
-"TF_Matchmaking_PartyMember_OutOfDate"	"Нужно перезапустить и обновить игру"
+"TF_Matchmaking_PartyMember_OutOfDate"	"Уенны яңартырга һәм яңадан кабызырга кирәк"
 
 "TF_Competitive_Pass_Beta"				"Пропуск на бета-тест соревновательного режима"
 "TF_Competitive_Pass_Beta_Desc"			"Напоминание об участии в бета-тесте соревновательного режима. Спасибо за помощь!"
@@ -15771,8 +15769,8 @@
 
 "TF_ScoreBoard_VoteKick"			"Исключение"
 
-"Winpanel_PVE_Evil_Wins"	"Волна провалена"
-"Winpanel_PVE_Bomb_Deployed"	"Бомба была заложена!"
+"Winpanel_PVE_Evil_Wins"	"Дулкын үткәрелмәде"
+"Winpanel_PVE_Bomb_Deployed"	"Бомба салынды!"
 
 // For replay
 "Stat_BlastDamage"		"УРОН ОТ ВЗРЫВА"
@@ -15818,8 +15816,8 @@
 "TF_War_HeavyVsPyro_SidePyro"	"Поджигатели"
 "TF_War_NoGC"			"Нет соединения с координатором игр.\n\nВыбор команды и результаты голосования недоступны!"
 "ShowComic"		"Читать комикс"
-"JoinHeavyButton"	"Пулемётчик"
-"JoinPyroButton" "Поджигатель"
+"JoinHeavyButton"	"Уксибәрче"
+"JoinPyroButton" "Төртүче"
 "OverviewPage_PageTitle"	"Обзор"
 "OverviewPage_YourKills" "Убийства:"
 "OverviewPage_YourContribution" "Ваш вклад: "
@@ -15839,7 +15837,7 @@
 "TF_ItemDynamic_Quest_QuestObjectives"	"Ниже приведены задачи, которые необходимо выполнить."
 
 "Quests"	"Контрактлар"
-"QuestNotification_Incoming"	"Входящий звонок"
+"QuestNotification_Incoming"	"Керүче шалтырату"
 "QuestTracker_Pending"	"Закончите раунд, чтобы выполнить этот контракт"
 "QuestTracker_New_CallToAction" "Нажмите [ %show_quest_log% ], чтобы посмотреть"
 "QuestTracker_New_Single"	"Новых контрактов: %s1"
@@ -15852,7 +15850,7 @@
 "QuestTracker_ReadyForTurnIn"	"Контракт можно сдать"
 "Questlog_Track"	"Алгарыш"
 "Questlog_Reward"	"Бүләкләр"
-"QuestLog_Title"	"Список контрактов"
+"QuestLog_Title"	"Контрактлар исемлеге"
 "QuestLog_Title_Halloween"	"Книга маразмиссий"
 "QuestLog_BadgeProgress"	"Проклятая гаргулья %s1"
 "QuestLog_ContractsCompleted"	"Выполнено маразмиссий"
@@ -15936,7 +15934,7 @@
 "QuestPoints_Standard_Merasmus"	"%s1/%s2 ОМ"
 "QuestPoints_Bonus_Merasmus"	"Бонус: %s1/%s2 ОМ"
 
-"TF_QuestMap_Intro_OK"		"Начать!"
+"TF_QuestMap_Intro_OK"		"Башлау!"
 "TF_QuestMap_Intro_Title"	"КонТрекер"
 "TF_QuestMap_Intro_Desc"	"Добро пожаловать в КонТрекер, ваш личный проводник по лучшим контрактам Манн Ко.\n\nНаведите мышь на кнопки ниже, чтобы узнать о КонТрекере больше"
 "TF_QuestMap_Intro_1"		"На дисплее КонТрекера показаны узлы с различными контрактами. Нажмите на узел, чтобы увидеть условия контракта. Нажмите \"Активировать\", чтобы принять контракт. Одновременно можно выполнять не больше одного контракта."
@@ -16112,15 +16110,15 @@
 "ItemPreview_AlreadyPreviewText"	"Вы уже тестируете этот предмет. Если вы купите его до конца тестирования, то получите скидку в 25%, если не действует другая!"
 
 "TF_Items_All" 		"Барлык предметлар"
-"TF_Items_Scout" 	"Предметы разведчика"
-"TF_Items_Sniper" 	"Предметы снайпера"
-"TF_Items_Soldier" 	"Предметы солдата"
-"TF_Items_Demoman" 	"Предметы подрывника"
-"TF_Items_Medic" 	"Предметы медика"
-"TF_Items_Heavy" 	"Предметы пулемётчика"
-"TF_Items_Pyro" 	"Предметы поджигателя"
-"TF_Items_Spy" 		"Предметы шпиона"
-"TF_Items_Engineer" "Предметы инженера"
+"TF_Items_Scout" 	"Күзәтче предметлары"
+"TF_Items_Sniper" 	"Мәргән предметлары"
+"TF_Items_Soldier" 	"Солдат предметлары"
+"TF_Items_Demoman" 	"Шартлаучы предметлары"
+"TF_Items_Medic" 	"Медик предметлары"
+"TF_Items_Heavy" 	"Уксибәрче предметлары"
+"TF_Items_Pyro" 	"Төртүче предметлары"
+"TF_Items_Spy" 		"Шымчы предметлары"
+"TF_Items_Engineer" "Мөһәндис предметлары"
 
 //----------------------------------------------------------------------------------------
 // SteamWorkshop
@@ -16349,8 +16347,8 @@
 //
 // GAME-SPECIFIC REPLAY STRINGS
 //
-"Replay_Team0"			"КРС"
-"Replay_Team1"			"СИН"
+"Replay_Team0"			"КЗЛ"
+"Replay_Team1"			"ЗГР"
 
 "AbuseReport_QueueCommandName"	"Сделать скриншот для жалобы"
 
@@ -16414,7 +16412,7 @@
 "TF_DailyMapStampRewardHat_Desc"	"Поздравляем! Вчера вы купили больше марок, чем любой другой игрок, поддержав сообщество создателей карт для TF2! Носите эту награду с гордостью: завтра она перейдет в другие руки!"
 "TF_DailyGiftGiverRewardHat"		"Щедрая душа из щедрых краев"
 "TF_DailyGiftGiverRewardHat_Desc"	"Поздравляем! Вчера вы раздали больше подарков, чем любой другой игрок в TF2! Носите эту награду с гордостью: завтра она перейдет в другие руки!"
-"TF_DailyDuelWinnerRewardHat"		"Дуэлянт"
+"TF_DailyDuelWinnerRewardHat"		"Дуэльче"
 "TF_DailyDuelWinnerRewardHat_Desc"	"Поздравляем! Вчера вы выиграли больше дуэлей, чем любой другой игрок в TF2! Носите эту награду с гордостью: завтра она перейдет в другие руки!"
 
 "TF_Heavy_Robot_Ushanka_Hat"		"Ушанка-бряцалка" // ADD THE
@@ -19764,12 +19762,12 @@ E: Синие могут захватить эту точку в любой мо
 "tf_zi_ui_infect_solo_msg"				"FBECCBИгрок FF3F3F%sFBECCB заражён!"
 "tf_zi_ui_last_survivor_minicrit"		"FBECCBОСТАЛОСЬ %d ВЫЖИВШИХ! Теперь у них FFD700%sFBECCB!"
 "tf_zi_ui_last_survivor_crit"			"FBECCBИГРОК FF3F3F%sFBECCB - ПОСЛЕДНИЙ ВЫЖИВШИЙ! ОН ПОЛУЧАЕТ 16FD1D%sFBECCB!"
-"tf_zi_ui_crits"						"КРИТЫ"
-"tf_zi_ui_minicrits"					"МИНИ-КРИТЫ"
+"tf_zi_ui_crits"						"КРИТЛАР"
+"tf_zi_ui_minicrits"					"КЫСКА КРИТЛАР"
 "tf_zi_ui_first_wave_msg_plural"		" ЗАРАЗИЛИСЬ!"
 "tf_zi_ui_passive"						"ПАССИВНАЯ"
 "tf_zi_ui_casting"						"Применение..."
-"tf_zi_ui_ready"						"ГОТОВО!"
+"tf_zi_ui_ready"						"БУЛДЫ!"
 "tf_zi_ui_ready_in"						"Осталось "
 "tf_zi_ui_first_wave_msg"				" ЗАРАЖАЕТСЯ!"
 "tf_zi_ui_and"							"и"
