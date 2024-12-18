@@ -8980,6 +8980,35 @@
 
 // Strings used in materials
 "TF_Battlements"		"Сугыш кыры"
+"TF_ControlPoint"		"Контроль ноктасы"
+"TF_CapturePoint"		"Контроль пункты"
+"TF_CaptureZone"		"Басып алу зонасы"
+"TF_Resupply"			"Пополнение запасов"
+"TF_Intelligence"		"Разведмәгълүмат"
+"TF_Exit"			"Чыгу"
+
+"Leaderboard_BestMoments"		"КИЕРЕНКЕ МИЗГЕЛЛӘР"
+
+"TF_Timelimit"			"Карта өчен вакыт (мин.)"
+"TF_WinLimit"			"Лимит побед (очк.)"
+"TF_MaxRounds"			"Раунд чик саны"
+
+"TF_TeamCount"			"Сезнең төркемдә башка уенчылар"
+
+"Cannot_Be_Spectator"			"На этом сервере нельзя зайти за наблюдателя"
+"Cannot_Be_Spectator_Unbalance"	"Став наблюдателем, вы нарушите баланс команд."
+
+//----------------------------------------------------------------------------------------
+// Items
+
+"TF_Open_Charinfo"			"Открыть меню снаряжения"
+"TF_Open_Charinfo_Backpack"	"Рюкзакны ачу"
+"TF_Show_Quest_Log"			"Открыть список контрактов"
+"TF_Quickswitch"			"Быстрая смена снаряжения"
+"TF_LoadPreset0"			"А җыелмасын сайлау"
+"TF_LoadPreset1"			"Ә җыелмасын сайлау"
+"TF_LoadPreset2"			"Б җыелмасын сайлау"
+"TF_LoadPreset3"			"В җыелмасын сайлау"
 
 "Item"				"Предмет"
 "SelectedItemNumber"		"#%selecteditem%"
@@ -8988,7 +9017,7 @@
 "NewItemsCrafted"		"ЯҢА ЯСАЛГАН ПРЕДМЕТ: %numitems%!"
 "NewItemCrafted"		"ЯҢА ПРЕДМЕТ ЯСАЛДЫ!"
 "TF_HasNewItems"		"Сез яңа предметларны алдыгыз!"
-"TF_EnemyDroppedItem"	"%victim% роняет предмет!"
+"TF_EnemyDroppedItem"	"%victim% предметны төшерде!"
 "TF_HasNewQuests"		"Яңа биремнәр бар!"
 
 // These pickup strings have control characters embedded to set colors.
